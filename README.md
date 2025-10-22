@@ -31,6 +31,10 @@ You can download the latest (Windows executable) here:
 
 [Download File Organizer v1.0](https://github.com/Gurpreet-Codes/file-organizer/releases/download/v1.0.0/fileorganizer.exe)
 
+⚠️ Windows SmartScreen may warn “Unknown Publisher”.  
+This is normal for unsigned apps. Click More info → Run anyway to start the app safely.
+
+
 🪄 Option 2: Run from Source
 
 Clone the repository:
