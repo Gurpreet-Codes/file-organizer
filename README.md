@@ -25,7 +25,13 @@ Pathlib & Shutil – File and directory handling
 PyInstaller – Packaging tool for standalone executables
 
 🚀 Installation & Usage
-🪄 Option 1: Run from Source
+Option 1: 💾 Download
+
+You can download the latest (Windows executable) here:
+
+[Download File Organizer v1.0](https://github.com/Gurpreet-Codes/file-organizer/releases/download/v1.0.0/fileorganizer.exe)
+
+🪄 Option 2: Run from Source
 
 Clone the repository:
 
